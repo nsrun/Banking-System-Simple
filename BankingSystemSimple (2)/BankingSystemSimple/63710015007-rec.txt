@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2019-12-27] [03:41:11]       10              10
