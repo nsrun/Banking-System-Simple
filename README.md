@@ -1,6 +1,3 @@
-Here's a simple description for a banking system project in Python that you can use for your GitHub repository:
-
----
 
 ### Simple Banking System in Python
 
