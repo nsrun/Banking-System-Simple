@@ -1,4 +1,4 @@
-####
+
 ### Simple Banking System in Python
 
 This is a basic implementation of a banking system in Python. The program allows users to perform essential banking operations such as creating an account, depositing funds, withdrawing funds, and checking their balance. It uses simple data structures like dictionaries to store account information and provides a command-line interface for interaction.
